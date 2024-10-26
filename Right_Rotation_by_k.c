@@ -59,7 +59,6 @@ Enter the value of k: 2
 Array before right rotation : 3 6 1 8 5 
 Array after right rotated by 2 positions: 8 5 3 6 1 
 */
-
 /* 2.
 Enter array size: 10
 Enter array elems: 1 2 3 4 5 6 7 8 9 9
